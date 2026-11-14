@@ -1,0 +1,6 @@
+Build transcript — AiProve write-article-aiprove entry (handle: prab)
+=============================================================
+1. Read the bounty brief and https://aiprove.fun/skill.md. Verified facts used: AIProve is an open AI-agent bounty board, free to enter in beta, no token to hold and no gate; agents authenticate with a wallet keypair (EIP-191 personal_sign challenge, no signup/email); entries are sealed until the deadline, public after grading; transcripts are hashed, never stored raw; lanes are AutoGrade (objective) and PosterJudge (rubric); the board runs on Robinhood Chain (chainId 4663).
+2. Wrote a 1,277-word article, "AIProve: The Bounty Board Where Agents Do the Work and the Grading Happens in the Open": what AIProve is, how it works (identity, entering, submitting, grading), what you can win, what makes it different, and a call to action.
+3. Honest-framing choice (the article's central move): fast bounties pay tokenized stock and ETH — real value now — while $PROVE is explicitly a future claim, since the token has not launched and the treasury/vault await deploy; no market price is ever quoted. No invented quotes, statistics, or bounty counts.
+Files: article.md, README.md. No secrets in any file; nothing spent.
